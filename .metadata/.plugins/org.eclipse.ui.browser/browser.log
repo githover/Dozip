@@ -1,0 +1,116 @@
+
+9월 21, 2022 11:08:49.301 NEW SESSION
+9월 21, 2022 11:08:49.302 [13764:14724:0921/110849.299:ERROR:device_event_log_impl.cc(214)] [11:08:49.300] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+9월 21, 2022 11:09:47.133 [13764:16860:0921/110947.132:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+9월 21, 2022 11:09:52.375 [0921/110952.375:ERROR:filesystem_win.cc(130)] GetFileAttributes C:\Users\1202-26\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\684615c9-ae81-4dcb-8250-438cf84e4a97: 지정된 파일을 찾을 수 없습니다. (0x2)
+9월 21, 2022 11:09:52.376 [0921/110952.376:ERROR:filesystem_win.cc(130)] GetFileAttributes C:\Users\1202-26\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\684615c9-ae81-4dcb-8250-438cf84e4a97: 지정된 파일을 찾을 수 없습니다. (0x2)
+9월 21, 2022 15:50:50.615 [13764:14724:0921/155050.615:ERROR:interface_endpoint_client.cc(689)] Message 1 rejected by interface blink.mojom.WidgetHost
+9월 21, 2022 15:50:50.616 [13764:14724:0921/155050.615:ERROR:interface_endpoint_client.cc(689)] Message 1 rejected by interface blink.mojom.WidgetHost
+9월 21, 2022 15:50:50.616 [13764:14724:0921/155050.615:ERROR:interface_endpoint_client.cc(689)] Message 1 rejected by interface blink.mojom.WidgetHost
+9월 21, 2022 15:53:26.992 [13764:14724:0921/155326.992:ERROR:interface_endpoint_client.cc(689)] Message 1 rejected by interface blink.mojom.WidgetHost
+9월 21, 2022 16:09:47.138 [13764:3564:0921/160947.137:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+9월 21, 2022 16:31:41.888 [0921/163141.886:ERROR:filesystem_win.cc(130)] GetFileAttributes C:\Users\1202-26\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\684615c9-ae81-4dcb-8250-438cf84e4a97: 지정된 파일을 찾을 수 없습니다. (0x2)
+9월 21, 2022 16:31:41.888 [0921/163141.887:ERROR:filesystem_win.cc(130)] GetFileAttributes C:\Users\1202-26\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\684615c9-ae81-4dcb-8250-438cf84e4a97: 지정된 파일을 찾을 수 없습니다. (0x2)
+9월 21, 2022 16:34:27.588 [13764:14724:0921/163427.588:ERROR:interface_endpoint_client.cc(689)] Message 1 rejected by interface blink.mojom.WidgetHost
+9월 21, 2022 16:34:27.589 [13764:14724:0921/163427.588:ERROR:interface_endpoint_client.cc(689)] Message 1 rejected by interface blink.mojom.WidgetHost
+9월 21, 2022 16:42:35.328 [0921/164235.328:ERROR:filesystem_win.cc(130)] GetFileAttributes C:\Users\1202-26\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\684615c9-ae81-4dcb-8250-438cf84e4a97: 지정된 파일을 찾을 수 없습니다. (0x2)
+9월 21, 2022 16:42:35.329 [0921/164235.329:ERROR:filesystem_win.cc(130)] GetFileAttributes C:\Users\1202-26\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\684615c9-ae81-4dcb-8250-438cf84e4a97: 지정된 파일을 찾을 수 없습니다. (0x2)
+
+9월 22, 2022 09:13:47.26 NEW SESSION
+9월 22, 2022 09:13:47.26 [7964:15924:0922/091347.024:ERROR:device_event_log_impl.cc(214)] [09:13:47.024] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+9월 22, 2022 09:14:44.795 [7964:6820:0922/091444.795:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+
+9월 26, 2022 09:28:51.374 NEW SESSION
+9월 26, 2022 09:28:51.374 [9744:17984:0926/092851.372:ERROR:device_event_log_impl.cc(214)] [09:28:51.373] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+9월 26, 2022 09:29:46.539 [9744:6556:0926/092946.539:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+9월 26, 2022 10:34:52.905 [0926/103452.904:ERROR:filesystem_win.cc(130)] GetFileAttributes C:\Users\1202-26\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\684615c9-ae81-4dcb-8250-438cf84e4a97: 지정된 파일을 찾을 수 없습니다. (0x2)
+9월 26, 2022 10:34:52.907 [0926/103452.907:ERROR:filesystem_win.cc(130)] GetFileAttributes C:\Users\1202-26\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\684615c9-ae81-4dcb-8250-438cf84e4a97: 지정된 파일을 찾을 수 없습니다. (0x2)
+9월 26, 2022 10:40:21.781 [0926/104021.779:ERROR:filesystem_win.cc(130)] GetFileAttributes C:\Users\1202-26\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\684615c9-ae81-4dcb-8250-438cf84e4a97: 지정된 파일을 찾을 수 없습니다. (0x2)
+9월 26, 2022 10:40:21.782 [0926/104021.781:ERROR:filesystem_win.cc(130)] GetFileAttributes C:\Users\1202-26\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\684615c9-ae81-4dcb-8250-438cf84e4a97: 지정된 파일을 찾을 수 없습니다. (0x2)
+9월 26, 2022 11:16:44.56 [9744:17984:0926/111644.056:ERROR:interface_endpoint_client.cc(689)] Message 0 rejected by interface blink.mojom.WidgetHost
+9월 26, 2022 14:08:01.593 [9744:13112:0926/140801.592:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+9월 26, 2022 14:29:46.544 [9744:16664:0926/142946.544:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+9월 26, 2022 15:29:18.164 [9744:17984:0926/152918.163:ERROR:interface_endpoint_client.cc(689)] Message 6 rejected by interface blink.mojom.WidgetHost
+9월 26, 2022 15:29:18.165 [9744:17984:0926/152918.163:ERROR:interface_endpoint_client.cc(689)] Message 7 rejected by interface blink.mojom.WidgetHost
+
+9월 27, 2022 09:09:37.529 NEW SESSION
+9월 27, 2022 09:09:37.529 기존 브라우저 세션에서 여는 중입니다.
+9월 27, 2022 09:09:39.660 [15412:17220:0927/090939.660:ERROR:device_event_log_impl.cc(214)] [09:09:39.660] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+9월 27, 2022 09:10:37.438 [15412:14528:0927/091037.438:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+9월 27, 2022 10:00:09.220 [0927/100009.218:ERROR:filesystem_win.cc(130)] GetFileAttributes C:\Users\1202-26\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\684615c9-ae81-4dcb-8250-438cf84e4a97: 지정된 파일을 찾을 수 없습니다. (0x2)
+9월 27, 2022 10:00:09.222 [0927/100009.222:ERROR:filesystem_win.cc(130)] GetFileAttributes C:\Users\1202-26\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\684615c9-ae81-4dcb-8250-438cf84e4a97: 지정된 파일을 찾을 수 없습니다. (0x2)
+9월 27, 2022 10:35:32.463 [0927/103532.463:ERROR:filesystem_win.cc(130)] GetFileAttributes C:\Users\1202-26\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\684615c9-ae81-4dcb-8250-438cf84e4a97: 지정된 파일을 찾을 수 없습니다. (0x2)
+9월 27, 2022 10:35:32.465 [0927/103532.464:ERROR:filesystem_win.cc(130)] GetFileAttributes C:\Users\1202-26\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\684615c9-ae81-4dcb-8250-438cf84e4a97: 지정된 파일을 찾을 수 없습니다. (0x2)
+9월 27, 2022 10:40:33.680 [0927/104033.678:ERROR:filesystem_win.cc(130)] GetFileAttributes C:\Users\1202-26\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\684615c9-ae81-4dcb-8250-438cf84e4a97: 지정된 파일을 찾을 수 없습니다. (0x2)
+9월 27, 2022 10:40:33.681 [0927/104033.679:ERROR:filesystem_win.cc(130)] GetFileAttributes C:\Users\1202-26\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\684615c9-ae81-4dcb-8250-438cf84e4a97: 지정된 파일을 찾을 수 없습니다. (0x2)
+9월 27, 2022 11:40:21.576 [0927/114021.575:ERROR:filesystem_win.cc(130)] GetFileAttributes C:\Users\1202-26\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\684615c9-ae81-4dcb-8250-438cf84e4a97: 지정된 파일을 찾을 수 없습니다. (0x2)
+9월 27, 2022 11:40:21.579 [0927/114021.577:ERROR:filesystem_win.cc(130)] GetFileAttributes C:\Users\1202-26\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\684615c9-ae81-4dcb-8250-438cf84e4a97: 지정된 파일을 찾을 수 없습니다. (0x2)
+9월 27, 2022 13:08:19.984 [15412:17220:0927/130819.984:ERROR:interface_endpoint_client.cc(689)] Message 0 rejected by interface blink.mojom.WidgetHost
+9월 27, 2022 14:10:37.442 [15412:19516:0927/141037.441:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+9월 27, 2022 14:39:28.477 [0927/143928.476:ERROR:filesystem_win.cc(130)] GetFileAttributes C:\Users\1202-26\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\684615c9-ae81-4dcb-8250-438cf84e4a97: 지정된 파일을 찾을 수 없습니다. (0x2)
+9월 27, 2022 14:39:28.479 [0927/143928.477:ERROR:filesystem_win.cc(130)] GetFileAttributes C:\Users\1202-26\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\684615c9-ae81-4dcb-8250-438cf84e4a97: 지정된 파일을 찾을 수 없습니다. (0x2)
+9월 27, 2022 16:54:48.350 [0927/165448.349:ERROR:filesystem_win.cc(130)] GetFileAttributes C:\Users\1202-26\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\684615c9-ae81-4dcb-8250-438cf84e4a97: 지정된 파일을 찾을 수 없습니다. (0x2)
+9월 27, 2022 16:54:48.351 [0927/165448.350:ERROR:filesystem_win.cc(130)] GetFileAttributes C:\Users\1202-26\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\684615c9-ae81-4dcb-8250-438cf84e4a97: 지정된 파일을 찾을 수 없습니다. (0x2)
+9월 27, 2022 17:34:19.416 [0927/173419.415:ERROR:filesystem_win.cc(130)] GetFileAttributes C:\Users\1202-26\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\684615c9-ae81-4dcb-8250-438cf84e4a97: 지정된 파일을 찾을 수 없습니다. (0x2)
+9월 27, 2022 17:34:19.417 [0927/173419.417:ERROR:filesystem_win.cc(130)] GetFileAttributes C:\Users\1202-26\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\684615c9-ae81-4dcb-8250-438cf84e4a97: 지정된 파일을 찾을 수 없습니다. (0x2)
+9월 27, 2022 18:47:13.899 [0927/184713.898:ERROR:filesystem_win.cc(130)] GetFileAttributes C:\Users\1202-26\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\684615c9-ae81-4dcb-8250-438cf84e4a97: 지정된 파일을 찾을 수 없습니다. (0x2)
+9월 27, 2022 18:47:13.900 [0927/184713.899:ERROR:filesystem_win.cc(130)] GetFileAttributes C:\Users\1202-26\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\684615c9-ae81-4dcb-8250-438cf84e4a97: 지정된 파일을 찾을 수 없습니다. (0x2)
+9월 27, 2022 19:10:36.106 [15412:17364:0927/191036.105:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+9월 27, 2022 20:05:00.443 [0927/200500.442:ERROR:filesystem_win.cc(130)] GetFileAttributes C:\Users\1202-26\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\684615c9-ae81-4dcb-8250-438cf84e4a97: 지정된 파일을 찾을 수 없습니다. (0x2)
+9월 27, 2022 20:05:00.444 [0927/200500.443:ERROR:filesystem_win.cc(130)] GetFileAttributes C:\Users\1202-26\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\684615c9-ae81-4dcb-8250-438cf84e4a97: 지정된 파일을 찾을 수 없습니다. (0x2)
+9월 27, 2022 20:28:45.551 [0927/202845.546:ERROR:filesystem_win.cc(130)] GetFileAttributes C:\Users\1202-26\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\684615c9-ae81-4dcb-8250-438cf84e4a97: 지정된 파일을 찾을 수 없습니다. (0x2)
+9월 27, 2022 20:28:45.553 [0927/202845.548:ERROR:filesystem_win.cc(130)] GetFileAttributes C:\Users\1202-26\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\684615c9-ae81-4dcb-8250-438cf84e4a97: 지정된 파일을 찾을 수 없습니다. (0x2)
+9월 27, 2022 20:31:54.758 [0927/203154.757:ERROR:filesystem_win.cc(130)] GetFileAttributes C:\Users\1202-26\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\684615c9-ae81-4dcb-8250-438cf84e4a97: 지정된 파일을 찾을 수 없습니다. (0x2)
+9월 27, 2022 20:31:54.759 [0927/203154.759:ERROR:filesystem_win.cc(130)] GetFileAttributes C:\Users\1202-26\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\684615c9-ae81-4dcb-8250-438cf84e4a97: 지정된 파일을 찾을 수 없습니다. (0x2)
+9월 27, 2022 20:44:39.133 [0927/204439.133:ERROR:filesystem_win.cc(130)] GetFileAttributes C:\Users\1202-26\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\684615c9-ae81-4dcb-8250-438cf84e4a97: 지정된 파일을 찾을 수 없습니다. (0x2)
+9월 27, 2022 20:44:39.134 [0927/204439.134:ERROR:filesystem_win.cc(130)] GetFileAttributes C:\Users\1202-26\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\684615c9-ae81-4dcb-8250-438cf84e4a97: 지정된 파일을 찾을 수 없습니다. (0x2)
+9월 27, 2022 20:46:14.599 [0927/204614.598:ERROR:filesystem_win.cc(130)] GetFileAttributes C:\Users\1202-26\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\684615c9-ae81-4dcb-8250-438cf84e4a97: 지정된 파일을 찾을 수 없습니다. (0x2)
+9월 27, 2022 20:46:14.600 [0927/204614.600:ERROR:filesystem_win.cc(130)] GetFileAttributes C:\Users\1202-26\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\684615c9-ae81-4dcb-8250-438cf84e4a97: 지정된 파일을 찾을 수 없습니다. (0x2)
+9월 27, 2022 20:46:43.197 [0927/204643.196:ERROR:filesystem_win.cc(130)] GetFileAttributes C:\Users\1202-26\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\684615c9-ae81-4dcb-8250-438cf84e4a97: 지정된 파일을 찾을 수 없습니다. (0x2)
+9월 27, 2022 20:46:43.198 [0927/204643.198:ERROR:filesystem_win.cc(130)] GetFileAttributes C:\Users\1202-26\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\684615c9-ae81-4dcb-8250-438cf84e4a97: 지정된 파일을 찾을 수 없습니다. (0x2)
+9월 27, 2022 20:48:54.605 [0927/204854.604:ERROR:filesystem_win.cc(130)] GetFileAttributes C:\Users\1202-26\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\684615c9-ae81-4dcb-8250-438cf84e4a97: 지정된 파일을 찾을 수 없습니다. (0x2)
+9월 27, 2022 20:48:54.606 [0927/204854.606:ERROR:filesystem_win.cc(130)] GetFileAttributes C:\Users\1202-26\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\684615c9-ae81-4dcb-8250-438cf84e4a97: 지정된 파일을 찾을 수 없습니다. (0x2)
+9월 27, 2022 20:56:02.548 [0927/205602.547:ERROR:filesystem_win.cc(130)] GetFileAttributes C:\Users\1202-26\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\684615c9-ae81-4dcb-8250-438cf84e4a97: 지정된 파일을 찾을 수 없습니다. (0x2)
+9월 27, 2022 20:56:02.549 [0927/205602.548:ERROR:filesystem_win.cc(130)] GetFileAttributes C:\Users\1202-26\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\684615c9-ae81-4dcb-8250-438cf84e4a97: 지정된 파일을 찾을 수 없습니다. (0x2)
+9월 27, 2022 21:03:20.533 [0927/210320.532:ERROR:filesystem_win.cc(130)] GetFileAttributes C:\Users\1202-26\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\684615c9-ae81-4dcb-8250-438cf84e4a97: 지정된 파일을 찾을 수 없습니다. (0x2)
+9월 27, 2022 21:03:20.534 [0927/210320.534:ERROR:filesystem_win.cc(130)] GetFileAttributes C:\Users\1202-26\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\684615c9-ae81-4dcb-8250-438cf84e4a97: 지정된 파일을 찾을 수 없습니다. (0x2)
+9월 27, 2022 21:19:10.785 [0927/211910.784:ERROR:filesystem_win.cc(130)] GetFileAttributes C:\Users\1202-26\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\684615c9-ae81-4dcb-8250-438cf84e4a97: 지정된 파일을 찾을 수 없습니다. (0x2)
+9월 27, 2022 21:19:10.786 [0927/211910.785:ERROR:filesystem_win.cc(130)] GetFileAttributes C:\Users\1202-26\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\684615c9-ae81-4dcb-8250-438cf84e4a97: 지정된 파일을 찾을 수 없습니다. (0x2)
+
+9월 28, 2022 09:50:53.96 NEW SESSION
+9월 28, 2022 09:50:53.96 [14740:21460:0928/095053.094:ERROR:device_event_log_impl.cc(214)] [09:50:53.093] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+9월 28, 2022 09:51:49.658 [14740:14044:0928/095149.657:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+9월 28, 2022 11:18:38.639 [0928/111838.635:ERROR:filesystem_win.cc(130)] GetFileAttributes C:\Users\1202-26\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\684615c9-ae81-4dcb-8250-438cf84e4a97: 지정된 파일을 찾을 수 없습니다. (0x2)
+9월 28, 2022 11:18:38.640 [0928/111838.640:ERROR:filesystem_win.cc(130)] GetFileAttributes C:\Users\1202-26\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\684615c9-ae81-4dcb-8250-438cf84e4a97: 지정된 파일을 찾을 수 없습니다. (0x2)
+9월 28, 2022 12:57:59.925 [0928/125759.924:ERROR:filesystem_win.cc(130)] GetFileAttributes C:\Users\1202-26\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\684615c9-ae81-4dcb-8250-438cf84e4a97: 지정된 파일을 찾을 수 없습니다. (0x2)
+9월 28, 2022 12:57:59.926 [0928/125759.925:ERROR:filesystem_win.cc(130)] GetFileAttributes C:\Users\1202-26\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\684615c9-ae81-4dcb-8250-438cf84e4a97: 지정된 파일을 찾을 수 없습니다. (0x2)
+9월 28, 2022 14:51:49.662 [14740:1088:0928/145149.661:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+
+9월 28, 2022 18:44:37.536 NEW SESSION
+9월 28, 2022 18:44:37.536 [1828:20072:0928/184437.534:ERROR:device_event_log_impl.cc(214)] [18:44:37.534] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+9월 28, 2022 18:45:35.398 [1828:4560:0928/184535.398:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+
+9월 29, 2022 09:10:18.860 NEW SESSION
+9월 29, 2022 09:10:18.860 [536:10912:0929/091018.858:ERROR:device_event_log_impl.cc(214)] [09:10:18.858] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+9월 29, 2022 09:11:16.638 [536:14564:0929/091116.638:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+9월 29, 2022 09:12:50.283 [21480:21184:0929/091250.282:ERROR:device_event_log_impl.cc(214)] [09:12:50.283] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+9월 29, 2022 09:13:48.143 [21480:1580:0929/091348.142:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+9월 29, 2022 09:13:59.337 [3592:7212:0929/091359.337:ERROR:device_event_log_impl.cc(214)] [09:13:59.337] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+9월 29, 2022 09:14:57.253 [3592:17812:0929/091457.253:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+
+9월 29, 2022 09:18:56.819 NEW SESSION
+9월 29, 2022 09:18:56.820 [15356:6724:0929/091856.818:ERROR:device_event_log_impl.cc(214)] [09:18:56.818] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+
+9월 30, 2022 09:19:47.233 NEW SESSION
+9월 30, 2022 09:19:47.233 [18128:4212:0930/091947.231:ERROR:device_event_log_impl.cc(214)] [09:19:47.232] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+9월 30, 2022 09:20:45.145 [18128:18264:0930/092045.145:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+9월 30, 2022 09:24:43.480 [11924:9960:0930/092443.479:ERROR:device_event_log_impl.cc(214)] [09:24:43.479] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+
+9월 30, 2022 09:25:31.676 NEW SESSION
+9월 30, 2022 09:25:31.676 [9184:13620:0930/092531.674:ERROR:device_event_log_impl.cc(214)] [09:25:31.675] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+9월 30, 2022 09:25:55.826 [2656:7400:0930/092555.826:ERROR:device_event_log_impl.cc(214)] [09:25:55.826] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+9월 30, 2022 09:26:14.980 [5696:17556:0930/092614.979:ERROR:device_event_log_impl.cc(214)] [09:26:14.979] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+9월 30, 2022 09:27:12.820 [5696:17636:0930/092712.820:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+
+9월 30, 2022 14:11:53.474 NEW SESSION
+9월 30, 2022 14:11:53.475 [11444:15256:0930/141153.473:ERROR:device_event_log_impl.cc(214)] [14:11:53.473] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.

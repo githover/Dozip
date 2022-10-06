@@ -1,0 +1,11 @@
+ 
+ 이런식으로 db에 저장됩니다.
+
+ 
+
+/Partners/upload/포트폴리오번호/photo01.jpg
+ 
+ 예시
+ /Partners/upload/44/photo01.jpg
+ 
+ 

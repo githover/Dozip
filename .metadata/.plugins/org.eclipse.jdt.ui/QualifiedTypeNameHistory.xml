@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="lombok.Data"/>
+    <fullyQualifiedTypeName name="java.io.PrintWriter"/>
+    <fullyQualifiedTypeName name="com.partners.dao.PartnersDAO"/>
+    <fullyQualifiedTypeName name="com.partners.dto.PartnersDTO"/>
+    <fullyQualifiedTypeName name="com.partners.dto.Partners_subDTO"/>
+    <fullyQualifiedTypeName name="com.partners.controller.Action"/>
+</qualifiedTypeNameHistroy>
